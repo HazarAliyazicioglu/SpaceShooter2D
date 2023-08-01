@@ -6,7 +6,7 @@ using System.Net;
 
 public class Score : MonoBehaviour
 {
-    public float score = 0;
+    public static float score = 0;
     public  TextMeshProUGUI myScoreText;
     
 
